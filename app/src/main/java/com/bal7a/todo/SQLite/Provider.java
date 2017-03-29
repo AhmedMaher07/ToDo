@@ -1,8 +1,6 @@
 package com.bal7a.todo.SQLite;
 
-/**
- * Created by root on 4/20/16.
- */
+
 import android.content.ContentProvider;
 import android.content.ContentValues;
 import android.content.UriMatcher;
